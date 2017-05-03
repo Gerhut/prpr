@@ -21,6 +21,9 @@
     "url": "https://github.com/Gerhut/prpr/issues"
   },
   "homepage": "https://github.com/Gerhut/prpr#readme",
+  "engines": {
+    "node": "^7.6.0"
+  },
   "dependencies": {
     "dot": "^1.1.1",
     "graphql": "^0.9.6",
